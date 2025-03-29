@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AI-HealthcareSystem-Webapi.props" />
+</Project>
